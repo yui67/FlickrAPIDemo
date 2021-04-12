@@ -9,7 +9,7 @@ Flickr MVC示例项目
 
 要求
 XCode 9.3或更高版本
-斯威夫特4.0
+斯威夫特4.0以上
 Flickr API文档
 使用的API：flickr.photos.search●API文件：https://www.flickr.com/services/api/flickr.photos.search.html 
 测试页:https://www.flickr.com/services/api/explore/flickr.photos.search
